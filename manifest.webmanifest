@@ -1,0 +1,28 @@
+{
+  "name": "A320 Trainer",
+  "short_name": "A320 Trainer",
+  "description": "The whole A320 flight in a working cockpit, with the MCDU taught key by key and the gate to gate checklist.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e4e9ee",
+  "theme_color": "#e4e9ee",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
