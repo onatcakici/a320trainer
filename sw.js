@@ -1,6 +1,6 @@
 /* Keeps the trainer on the iPad for use with no network: the page and its photos are saved the first time
    it opens, checked for a newer copy whenever there is a network, and served from here when there is none. */
-const CACHE = 'a320-trainer-1beda532e6';
+const CACHE = 'a320-trainer-b58c7af564';
 const FILES = [
   "./",
   "index.html",

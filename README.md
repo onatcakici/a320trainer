@@ -10,6 +10,8 @@ The whole flight of an Airbus A320 in a working cockpit, in the browser: from a 
 
 * A cockpit where every switch, knob, lever and screen of the flow works: the overhead panel, the glareshield and main panel, the pedestal and the MCDU, with the systems behind them and the sounds of the airplane.
 * A guide beside the cockpit that names each control, says why it matters, and can fly the whole flow for you while you watch.
+* New flight, which sets up each session as an instructor would: where to start, from cold and dark at the gate to 12 NM out on the ILS; the weather, from a clear day to fog with a CAT 3 autoland; a light, typical or heavy load; day or night; and how much help you get, up to a check ride with none.
+* An EFB with the papers of the flight, the flight plan, the weather and the load sheet, and the takeoff performance worked out from them.
 * The MCDU taught key by key, and an MCDU practice for other flights around Istanbul and South Florida.
 * A gate to gate checklist to fly the same flight in a desktop simulator or a full flight simulator.
 
