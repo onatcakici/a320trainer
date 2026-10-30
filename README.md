@@ -4,11 +4,11 @@ The whole flight of an Airbus A320 in a working cockpit, in the browser: from a 
 
 **Open it: https://onatcakici.github.io/a320trainer/**
 
-![The trainer on its MCDU tab, with the steps beside it](checklist/img/01_trainer.webp)
+![The A320 Trainer on the ILS to runway 35R at Istanbul: the guide beside the main panel, with the FCU, PFD, ND and ECAM](share.png)
 
 ## What it does
 
-* A cockpit where every switch, knob, lever and screen of the flow works: the overhead panel, the glareshield and main panel, the pedestal and the MCDU, with the systems behind them and the sounds of the airplane.
+* A cockpit where every switch, knob, lever and screen of the flow works: the overhead panel, the glareshield and main panel, the pedestal and the MCDU, with the systems behind them and the sounds of the aircraft.
 * A guide beside the cockpit that names each control, says why it matters, and can fly the whole flow for you while you watch.
 * New flight, which sets up each session as an instructor would: where to start, from cold and dark at the gate to 12 NM out on the ILS; the weather, from a clear day to fog with a CAT 3 autoland; a light, typical or heavy load; day or night; and how much help you get, up to a check ride with none.
 * An EFB with the papers of the flight, the flight plan, the weather and the load sheet, and the takeoff performance worked out from them.
@@ -28,6 +28,10 @@ Its procedures, speeds, weights, charts and navigation data are simplified, part
 It is provided as is, without warranty of any kind, as the MIT licence says, and the author accepts no responsibility or liability for any use of it.
 
 Airbus, A320 and A330 are trademarks of Airbus. This project is independent and not affiliated with, endorsed or sponsored by Airbus. Other product names belong to their owners.
+
+## Privacy
+
+The trainer sets no cookies and collects nothing. Your settings, progress and ticks stay in your own browser, and after the first visit it works offline.
 
 ## Credits
 

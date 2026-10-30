@@ -2,6 +2,10 @@
   "name": "A320 Trainer",
   "short_name": "A320 Trainer",
   "description": "The whole A320 flight in a working cockpit, with the MCDU taught key by key and the gate to gate checklist.",
+  "lang": "en-GB",
+  "categories": [
+    "education"
+  ],
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
