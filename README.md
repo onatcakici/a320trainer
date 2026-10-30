@@ -33,5 +33,6 @@ Airbus, A320 and A330 are trademarks of Airbus. This project is independent and 
 
 * Code under the MIT licence, see `LICENSE`.
 * B612 and B612 Mono, the typefaces made for Airbus cockpit displays, by the B612 Project Authors under the SIL Open Font License 1.1, see `fonts/OFL.txt`.
+* Inter, by the Inter Project Authors under the SIL Open Font License 1.1, see `fonts/OFL_Inter.txt`.
 * The photos come from Wikimedia Commons and keep their own licences (CC BY, CC BY SA, CC0 or public domain); the author, the licence and a link to the original are with each photo in the checklist. They are not covered by the MIT licence.
 * Florida data from the FAA Coded Instrument Flight Procedures, Istanbul data from the AIP Türkiye published by DHMI, both simplified and out of date.
